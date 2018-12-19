@@ -40,7 +40,7 @@ The code is written in python 3.6 version.
      
 Number of EPOCHS = 10  
 Batch size = 64  
-Future period of predictioon = 3 sec  
+Future period of prediction = 3 sec  
 Sequence length = 60  
 Number of nodes in input layer = 128  
 Number of nodes in output layer = 2  
