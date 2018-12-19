@@ -38,13 +38,13 @@ The code is written in python 3.6 version.
  
      pip install -U scikit-learn
      
-Number of EPOCHS = 10
-Batch size = 64
-Future period of predictioon = 3 sec
-Sequence length = 60
-Number of nodes in input layer = 128
-Number of nodes in output layer = 2
-Model type = Sequential
+Number of EPOCHS = 10  
+Batch size = 64  
+Future period of predictioon = 3 sec  
+Sequence length = 60  
+Number of nodes in input layer = 128  
+Number of nodes in output layer = 2  
+Model type = Sequential  
 
 ## How to train the model
 
