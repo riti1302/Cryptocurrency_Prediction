@@ -50,5 +50,6 @@ Model type = Sequential
 
     python3 Cryptocurrency.py
     
+ Trained weights and biases are saved in the `models` directory.
 
 
